@@ -6,3 +6,6 @@ Learning Objectives:
 3. Create a "curved vortex". For this project this is defined as a vortex that goes about a Bezier spline.
 
 A "Frenet Frame" was computed to allow for the curvature of the snow about any given point on the spline. 
+
+Demo clip can be viewed at https://youtu.be/JNG7NwRTPzs
+
